@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">  Converter</string>
+
+    <string name="pakistan_currency">PKR.json</string>
+    <string name="china_currency">CNY.json</string>
+    <string name="iran_currency">IRR.json</string>
+    <string name="usa_currency">USD.json</string>
+    <string name="turkey_currency">TRY.json</string>
+    <string name="uk_currency">GBP.json</string>
+    <string name="india_currency">INR.json</string>
+
+</resources>
